@@ -1,21 +1,3 @@
-# coc8640b4ab7ea074c56f6bdc
+# bu A simple yet poweful chrome extension for saving bookmark of the sites you visit on the chrome browser. It uses basic HTML, CSS and Js and implements a "save input" button that saved the input entered in the input field and displays it below. The "save tabs" button uses the chrome API to fetch the url of the current page and also saves it down below. The netlify link to the deployed site is linked below.
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+https://anubhav-chrome-extension.netlify.app/
